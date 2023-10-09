@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
-import Header from "./companet/header";
 import Footer from "./companet/Footer";
+import Header from "./companet/Headers";
 
 function App() {
   return (
